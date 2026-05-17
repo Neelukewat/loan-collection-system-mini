@@ -162,3 +162,10 @@ Running `php artisan migrate --seed` creates:
 - 2 users (1 admin, 1 field agents)
 - 6 loans (mix of active, closed, defaulted)
 - Collection entries spread across different hours (for prediction to work)
+
+  ## Branches
+
+| Branch | Contains |
+|--------|----------|
+| `backend` | Laravel API (default) |
+| `frontend` | React Frontend |
