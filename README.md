@@ -150,7 +150,7 @@ Instead of running separate queries for each stat, I used `selectRaw` with `CASE
 
 ## Postman Collection
 
-Import the file from `/postman/LoanCollection.postman_collection.json`
+Import the file from `/postman/Loan Collection Management System.postman_collection.json`
 
 The login request automatically saves the token - all other requests will work right away.
 
